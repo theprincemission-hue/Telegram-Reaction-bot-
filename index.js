@@ -9,8 +9,8 @@ const bot = new TelegramBot(token, { polling: true });
 
 // 📢 MULTI CHANNEL SUPPORT
 const CHANNELS = [
-  "@channel1",   // 👉 yahan apna channel daalo
-  "@channel2"
+  "@@Godgamerislive",   // 👉 yahan apna channel daalo
+  "@Dnexon55Pros"
 ];
 
 // 🔥 ACTIVE SMM PANEL (SMMLite)
@@ -18,7 +18,7 @@ const ACTIVE_PANEL = {
   name: "SMMLite",
   url: "https://smmlite.com/api/v2",
   key: process.env.API_KEY,
-  service: "1234" // ⚠️ yahan apna REAL service ID daalo
+  service: "5160" // ⚠️ yahan apna REAL service ID daalo
 };
 
 // 📦 SEND ORDER FUNCTION
@@ -67,7 +67,7 @@ bot.on("channel_post", async (msg) => {
     console.log("📢 New Post:", link);
 
     // ⚡ BURST MODE (fast delivery)
-    const burst = [100, 100, 200];
+    const burst = [101, 120, 150];
 
     for (let qty of burst) {
       await sendOrder(link, qty);
