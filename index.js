@@ -75,7 +75,7 @@ bot.on("channel_post", async (msg) => {
     console.log("📢 New Post Detected:", link);
 
     // ⚡ SAFE TEST MODE (ONLY ONE ORDER FIRST)
-    const burst = [1200];
+    const burst = [300];
 
     for (let qty of burst) {
       await sendOrder(link, qty);
