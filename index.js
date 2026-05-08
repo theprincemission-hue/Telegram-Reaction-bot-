@@ -11,7 +11,7 @@ const bot = new TelegramBot(token, { polling: true });
 const CHANNELS = [
   "@Dnexon55Pros",
   "@Godgamerislive",
-  "@trickyearnerislive"
+  "@trickyearnerislive",
   "@URVIGAMER"
 ];
 
