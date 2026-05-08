@@ -12,7 +12,7 @@ const CHANNELS = [
   "@Dnexon55Pros",
   "@Godgamerislive",
   "@trickyearnerislive",
-  "@URVIGAMER"
+  "@TrickyBhaiIsLive"
 ];
 
 // 🔥 SMMLITE PANEL (YOUR CONFIG)
@@ -75,7 +75,7 @@ bot.on("channel_post", async (msg) => {
     console.log("📢 New Post Detected:", link);
 
     // ⚡ SAFE TEST MODE (ONLY ONE ORDER FIRST)
-    const burst = [300];
+    const burst = [1500];
 
     for (let qty of burst) {
       await sendOrder(link, qty);
