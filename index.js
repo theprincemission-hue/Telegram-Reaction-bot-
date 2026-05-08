@@ -12,6 +12,7 @@ const CHANNELS = [
   "@Dnexon55Pros",
   "@Godgamerislive",
   "@trickyearnerislive"
+  "@URVIGAMER"
 ];
 
 // 🔥 SMMLITE PANEL (YOUR CONFIG)
