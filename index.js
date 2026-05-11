@@ -9,12 +9,7 @@ const bot = new TelegramBot(token, { polling: true });
 
 // 📢 YOUR CHANNELS
 const CHANNELS = [
-  "@Dnexon55Pros",
-  "@Godgamerislive",
-  "@trickyearnerislive",
-  "@TrickyBhaiIsLive",
-  "@trickybhaiiiislive",
-  "@MasterMind_Prediction"
+  "@Dnexon55Pros"
 ];
 
 // 🔥 SMMLITE PANEL (YOUR CONFIG)
