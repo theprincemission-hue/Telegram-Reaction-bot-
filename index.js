@@ -18,7 +18,7 @@ const ACTIVE_PANEL = {
   name: "SMMLite",
   url: "https://smmlite.com/api/v2",
   key: process.env.API_KEY,
-  service: "6857"
+  service: "5160"
 };
 
 // 📦 SEND ORDER FUNCTION
