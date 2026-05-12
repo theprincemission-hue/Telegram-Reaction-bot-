@@ -18,7 +18,7 @@ const ACTIVE_PANEL = {
   name: "SMMLite",
   url: "https://smmlite.com/api/v2",
   key: process.env.API_KEY,
-  service: "5160"
+  service: "6857"
 };
 
 // 📦 SEND ORDER FUNCTION
@@ -73,7 +73,7 @@ bot.on("channel_post", async (msg) => {
     console.log("📢 New Post Detected:", link);
 
     // ⚡ SAFE TEST MODE (ONLY ONE ORDER FIRST)
-    const burst = [1120 , 1239 , 1727];
+    const burst = [3120 , 2239 , 4727];
 
     for (let qty of burst) {
       await sendOrder(link, qty);
