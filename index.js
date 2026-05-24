@@ -26,7 +26,10 @@ const OWNER_ID = 6402927432;
 const CHANNELS = [
   "@Dnexon55Pros",
   "@URVIGAMER",
-  "@Tricky_Earner_Is_Live"
+  "@Tricky_Earner_Is_Live",
+  "@rajagameofficial34",
+  "@GROW_MASTER",
+  "@Raja_Game_bunny"
 ];
 
 // =========================
