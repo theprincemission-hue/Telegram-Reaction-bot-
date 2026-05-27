@@ -29,7 +29,8 @@ const CHANNELS = [
   "@Tricky_Earner_Is_Live",
   "@rajagameofficial34",
   "@GROW_MASTER",
-  "@Raja_Game_bunny"
+  "@Raja_Game_bunny",
+  "@rajagame_srishti"
 ];
 
 // =========================
