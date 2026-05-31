@@ -30,7 +30,11 @@ const CHANNELS = [
   "@rajagameofficial34",
   "@GROW_MASTER",
   "@Raja_Game_bunny",
-  "@rajagame_srishti"
+  "@rajagame_srishti",
+  "@Tashanwin3",
+  "@Pawanchauhan9319",
+  "@NumberWinChannel",
+  "@damanpr0"
 ];
 
 // =========================
