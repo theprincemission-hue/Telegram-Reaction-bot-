@@ -76,7 +76,7 @@ const PANELS = {
 // QUANTITY POOLS
 // =========================
 
-const LOWER = [321, 515, 620, 713, 618, 811];
+const LOWER = [221, 15, 20, 13, 18, 11];
 
 const MEDIUM = [100, 200, 230, 430, 530];
 
