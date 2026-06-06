@@ -54,7 +54,7 @@ const PANELS = {
     name: "Lower Panel",
     url: "https://smmlite.com/api/v2",
     key: process.env.API_KEY_LOWER,
-    service: "5160" "1513"
+    service: "5160"
   },
 
   medium: {
