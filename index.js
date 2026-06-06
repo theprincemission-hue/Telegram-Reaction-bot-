@@ -54,7 +54,7 @@ const PANELS = {
     name: "Lower Panel",
     url: "https://smmlite.com/api/v2",
     key: process.env.API_KEY_LOWER,
-    service: "5160"
+    service: "5160" "1513"
   },
 
   medium: {
@@ -77,7 +77,7 @@ const PANELS = {
 // QUANTITY POOLS
 // =========================
 
-const LOWER = [321, 415, 350, 573, 518, 711];
+const LOWER = [57, 15, 10, 13, 18, 11];
 const MEDIUM = [100, 200, 230, 430, 530];
 const LARGE = [193, 150, 230, 320, 136];
 
