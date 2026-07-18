@@ -35,7 +35,8 @@ const CHANNELS = [
   "@TrickyIsLive",
   "@Colour_Trader_Is_Live",
   "@Kapilgjalwa",
-  "@yaarwinbtc"
+  "@yaarwinbtc",
+  "@RDX_Devansh9668"
 ];
 
 // =========================
